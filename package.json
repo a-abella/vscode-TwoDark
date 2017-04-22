@@ -1,0 +1,23 @@
+{
+    "name": "theme-twodark",
+    "displayName": "two-dark",
+    "description": "Desaturated version of the One Dark theme. Based on Atom's 2-Dark theme.",
+    "version": "0.0.1",
+    "publisher": "aabella",
+    "icon": "./twodark.png",
+    "engines": {
+        "vscode": "^1.11.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TwoDark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TwoDark.tmTheme"
+            }
+        ]
+    }
+}
