@@ -1,27 +1,27 @@
 {
-    "name": "theme-twodark",
-    "displayName": "two-dark",
-    "description": "Desaturated version of the One Dark theme. Based on Atom's 2-Dark theme.",
-    "version": "0.0.2",
-    "publisher": "aabella",
-    "icon": "twodark.png",
-    "engines": {
-        "vscode": "^1.36.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "TwoDark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/TwoDark-theme.json"
-            }
-        ]
-    },
-    "respository": {
-        "type": "git",
-        "url": "https://github.com/a-abella/vscode-TwoDark.git"
-    }
+  "name": "theme-twodark",
+  "displayName": "two-dark",
+  "description": "Desaturated version of the One Dark theme. Based on Atom's 2-Dark theme.",
+  "version": "0.3.0",
+  "publisher": "aabella",
+  "icon": "twodark.png",
+  "engines": {
+    "vscode": "^1.36.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "TwoDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TwoDark-theme.json"
+      }
+    ]
+  },
+  "respository": {
+    "type": "git",
+    "url": "https://github.com/a-abella/vscode-TwoDark.git"
+  }
 }
