@@ -4,6 +4,10 @@
   "description": "Desaturated version of the One Dark theme. Based on Atom's 2-Dark theme.",
   "version": "0.3.0",
   "publisher": "aabella",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a-abella/vscode-TwoDark.git"
+  },
   "icon": "twodark.png",
   "engines": {
     "vscode": "^1.36.0"
@@ -19,9 +23,5 @@
         "path": "./themes/TwoDark-theme.json"
       }
     ]
-  },
-  "respository": {
-    "type": "git",
-    "url": "https://github.com/a-abella/vscode-TwoDark.git"
-  }
+}
 }
