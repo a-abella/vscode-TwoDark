@@ -2,7 +2,7 @@
   "name": "theme-twodark",
   "displayName": "two-dark",
   "description": "Desaturated version of the One Dark theme. Based on Atom's 2-Dark theme.",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "publisher": "aabella",
   "repository": {
     "type": "git",
@@ -23,5 +23,5 @@
         "path": "./themes/TwoDark-theme.json"
       }
     ]
-}
+  }
 }
